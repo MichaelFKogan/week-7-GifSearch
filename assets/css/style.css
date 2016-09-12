@@ -1,0 +1,26 @@
+body {
+    /*background-image: url(".jpg");*/
+    
+    background-size: cover;
+    background-position:;
+    background-repeat: no-repeat;
+    }
+
+    *{
+        box-sizing: border-box;
+    }
+
+
+    img{
+    	height:250px;
+    	border:2px solid black;
+    	float:left;
+    	
+    	
+    }
+
+    #rating{
+    	width:auto;
+    	overflow: auto;
+    	float:left;
+    }
